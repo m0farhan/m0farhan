@@ -10,7 +10,6 @@ Cybersecurity professional with hands-on experience in penetration testing, netw
 My journey in computer science has fueled a strong passion for cybersecurity. I am dedicated to leveraging my expertise in threat detection, incident response, and security operations to enhance organizational security posture and contribute to proactive, effective defense strategies.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ My journey in computer science has fueled a strong passion for cybersecurity. I 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
